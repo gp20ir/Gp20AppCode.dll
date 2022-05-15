@@ -235,16 +235,16 @@ using Gp20AppCode.QRCode.QRCodeEncoder;
 - SerialNumber
 
 
-*** Language *** :
+#   Language :
 ### Added
 - Language
 
 
-*** LED *** :
+#   LED :
 ###Empty Folder
 
 
-*** License *** :
+#   License :
 ### Added
 - Base32Converter
 - ComputerInfo
@@ -256,29 +256,29 @@ using Gp20AppCode.QRCode.QRCodeEncoder;
 - ObjectPacketLicense
 
 
-*** ListAllFilesAndFolders *** :
+#   ListAllFilesAndFolders :
 ### Added
 - ListFoldersAndFiles
 
 
-*** LogList *** :
+#   LogList :
 ### Added
 - LogListFile
 - LogListQuery
 - LogListSp
 
 
-*** Lottery *** :
+#   Lottery :
 ### Added
 - LotteryDB
 
 
-*** OEMinfo *** :
+#   OEMinfo :
 ### Added
 - OEMBuilder
 
 
-*** OSinfo *** :
+#   OSinfo :
 ### Added
 - OSVersion
 - OSVersionInfo
@@ -286,17 +286,17 @@ using Gp20AppCode.QRCode.QRCodeEncoder;
 - Wininfo
 
 
-*** Password *** :
+#   Password :
 ### Added
 - MakePassword
 
 
-*** Patch *** :
+#   Patch :
 ### Added
 - Patch
 
 
-*** QRCode *** :
+#   QRCode :
 ### Added
 ++ QRCodeDecoder
 - Corner
@@ -316,7 +316,7 @@ using Gp20AppCode.QRCode.QRCodeEncoder;
 - QREncoderTables
 - ZLibCompression
 
-*** Radar *** :
+#   Radar :
 ### Added
 - CircleRadarItem
 - Radar
@@ -327,12 +327,12 @@ using Gp20AppCode.QRCode.QRCodeEncoder;
 - TriangleRadarItem
 
 
-*** RandomChar *** :
+#   RandomChar :
 ### Added
 - RandomChar
 
 
-*** Ransomware *** :
+#   Ransomware :
 ### Added
 - Decrypt
 - Encrypt
@@ -347,7 +347,7 @@ using Gp20AppCode.QRCode.QRCodeEncoder;
 - UACAgent
 
 
-*** RegistryTools *** :
+#   RegistryTools :
 ### Added
 - AltTabKeys
 - CommandPrompt
@@ -364,12 +364,12 @@ using Gp20AppCode.QRCode.QRCodeEncoder;
 - WindowsUpdate
 
 
-*** SaveList *** :
+#   SaveList :
 ### Added
 - SaveList
 
 
-*** Security *** :
+#   Security :
 ### Added
 - Bear
 - Cobra
@@ -383,12 +383,12 @@ using Gp20AppCode.QRCode.QRCodeEncoder;
 - Viper
 
 
-*** SMS *** :
+#   SMS :
 ### Added
 - SibSMS
 
 
-*** StringOperation *** :
+#   StringOperation :
 ### Added
 - ConvertNumbers
 - DateString
@@ -401,22 +401,22 @@ using Gp20AppCode.QRCode.QRCodeEncoder;
 - Xor
 
 
-*** TaxDiscount *** :
+#   TaxDiscount :
 ### Added
 - TaxDiscount
 
 
-*** TextboxSetting *** :
+#   TextboxSetting :
 ### Added
 - TextboxSettings
 
 
-*** TextFile *** :
+#   TextFile :
 ### Added
 - TextFile
 
 
-*** ThreeLayerArchitecture *** :
+#   ThreeLayerArchitecture :
 ### Added
 ++ ThreeLayerQuery
 + BLL
@@ -432,16 +432,16 @@ using Gp20AppCode.QRCode.QRCodeEncoder;
 - Operation
 
 
-*** Trial *** :
+#   Trial :
 ###Empty Folder
 
 
-*** VersionInfo *** :
+#   VersionInfo :
 ### Added
 - VersionInfo
 
 
-*** Zip *** :
+#   Zip :
 ### Added
 - GZipper
 - ZipFiles
