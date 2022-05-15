@@ -28,6 +28,11 @@ Gp20AppCode DLL  Release Version And Revision History
 ```C#
 Using Gp20AppCode;
 ```
+Or 
+how to write Using Full Section
+
+
+
 
 
 - [x] #739
