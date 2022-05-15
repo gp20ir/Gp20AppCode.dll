@@ -16,6 +16,8 @@ Gp20AppCode DLL  Release Version And Revision History
 #### Contact Us : 09147968049 - 09380477753
 
 هشدار : شما حق فروش این فایل را ندارید در صورت مشاهده با روش های قانونی برخورد خواهد شد و فرد متخلف مورد پیگرد قضایی قرار خواهد گرفت
+
+Warning: you do not have the right to sell this file. If viewed, it will be dealt with legally and the offender will be prosecuted.
 -------------------------------------------------------
 
 LastUpdate and Version:
