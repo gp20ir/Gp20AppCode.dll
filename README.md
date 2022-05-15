@@ -425,6 +425,7 @@ using Gp20AppCode.QRCode.QRCodeEncoder;
 + DAL
 - DataAccess
 - Operation
+
 ++ ThreeLayerSp
 + BLL
 - OperationBLL
