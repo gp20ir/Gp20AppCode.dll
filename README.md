@@ -25,20 +25,10 @@ Gp20AppCode DLL  Release Version And Revision History
 #Warning: you do not have the right to sell this file. If viewed, it will be dealt with legally and the offender will be prosecuted.
 -------------------------------------------------------
 
----
-  using System;
+```python
+import foobar
+```
 
-namespace HelloWorld
-{
-  class Program
-  {
-    static void Main(string[] args)
-    {
-      Console.WriteLine("Hello World!");    
-    }
-  }
-}
----
 
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
