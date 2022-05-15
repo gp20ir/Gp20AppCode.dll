@@ -29,10 +29,13 @@ Gp20AppCode DLL  Release Version And Revision History
 Using Gp20AppCode;
 ```
 Or 
-how to write Using Full Section
+
+# how to write Using Full Section
 
 
-
+```C#
+using Gp20AppCode.QRCode.QRCodeEncoder;
+```
 
 
 - [x] #739
