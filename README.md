@@ -37,7 +37,7 @@ Or
 using Gp20AppCode.QRCode.QRCodeEncoder;
 ```
 
-
+# Tasks:
 - [x] The initial release of DLL has been completed
 - [ ] Coding examples are being updated
 - [ ] Uploading of code samples will start soon
