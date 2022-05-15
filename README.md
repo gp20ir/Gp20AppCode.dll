@@ -1,5 +1,6 @@
 ![Chocolatey](https://img.shields.io/chocolatey/dt/git)
 ![Eclipse Marketplace](https://img.shields.io/badge/Update-Today-green)
+![Eclipse Marketplace](https://img.shields.io/badge/Based%20on-.Net%20Framework-brightgreen)
 ![Eclipse Marketplace](https://img.shields.io/badge/Platform-C%23%20%7C%20Windows%20Library%20%7C%20C%23%20Library%7C%20WinForms-brightgreen)
 ![Eclipse Marketplace](https://img.shields.io/badge/Compatibility-Visual%20Studio%202005%20%7C%202008%20%7C%202010%20%7C%202013%20%7C%202015%20%7C%202017%20%7C%202019%20%7C%202022-blue)
 ![Eclipse Marketplace](https://img.shields.io/badge/License-MIT-red)
