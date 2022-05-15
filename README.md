@@ -305,6 +305,7 @@ using Gp20AppCode.QRCode.QRCodeEncoder;
 - QRDecoder
 - ReedSolomon
 - StaticTables
+
 ++ QRCodeEncoder
 - Adler32
 - CRC32
