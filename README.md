@@ -25,6 +25,7 @@ Gp20AppCode DLL  Release Version And Revision History
 #Warning: you do not have the right to sell this file. If viewed, it will be dealt with legally and the offender will be prosecuted.
 -------------------------------------------------------
 
+---
   using System;
 
 namespace HelloWorld
@@ -37,7 +38,7 @@ namespace HelloWorld
     }
   }
 }
-
+---
 
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
