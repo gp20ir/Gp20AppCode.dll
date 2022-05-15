@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/f9bef61c4550fa80da1236cdbbe5e802cbc47bcece0a249361cd4858b9a684e2/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f4d6f6e69746f72436f6e74726f6c2f4d6f6e69746f72436f6e74726f6c2f746f74616c2e7376673f7374796c653d666c6174" alt="downloads" data-canonical-src="https://img.shields.io/github/downloads/MonitorControl/MonitorControl/total.svg?style=flat" style="max-width: 100%;">
+downloads latest version license platform backers
 
 # Gp20AppCode.dll
 Using this Tool, You Can Write Windows Applications Professionally With a Simple and Easy Coding. This Amazing Tool turns you into a Professional and Commercial Developer. Designed and programmed By Kayhan Golden Data Company
