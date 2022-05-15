@@ -38,15 +38,16 @@ using Gp20AppCode.QRCode.QRCodeEncoder;
 ```
 
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [x] The initial release of DLL has been completed
+- [ ] Coding examples are being updated
+- [ ] Uploading of code samples will start soon
 
-LastUpdate and Version:
+
+# LastUpdate and Version:
 ## [1.0.0] - 18-‎Oct-‎2021
 
 -------------------------------------------------------
-Full Feature List:
+### Full Feature List:
 
 *** Activation *** :
 ### Added
