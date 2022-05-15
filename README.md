@@ -59,7 +59,7 @@ using Gp20AppCode.QRCode.QRCodeEncoder;
 -------------------------------------------------------
 ### Full Feature List:
 
-*** Activation *** :
+# Activation :
 ### Added
 - Activation
 - AutoActivation
@@ -67,12 +67,12 @@ using Gp20AppCode.QRCode.QRCodeEncoder;
 - StringCipher
 
 
-*** AdminPermission *** :
+# AdminPermission :
 ### Added
 - RunAsAdmin
 
 
-*** Algorithm *** :
+#  Algorithm :
 ### Added
 - AlgorithmAES
 - AlgorithmAES2
@@ -103,12 +103,12 @@ using Gp20AppCode.QRCode.QRCodeEncoder;
 - TransformType
 
 
-*** AttachDetach *** :
+# AttachDetach :
 ### Added
 - AttachDetach
 
 
-*** Authentication *** :
+#  Authentication :
 ### Added
 - Lock
 - Login
@@ -120,61 +120,60 @@ using Gp20AppCode.QRCode.QRCodeEncoder;
 - TwoStepVerification
 
 
-*** BackupRestore *** :
+#  BackupRestore :
 ### Added
 - BackupRestoreDB
 
 
-*** Barcode *** :
+#  Barcode :
 ### Added
 - BarCode
 - BarCodeString
 
 
-*** Bills *** :
+#  Bills :
 ### Added
 - Bill
 
-
-*** Calculat *** :
+#  Calculat :
 ### Added
 - Calculation
 - PersianDigit
 
-*** CaptchaCode *** :
+#  CaptchaCode :
 ### Added
 - Captcha
 
 
-*** Charts *** :
+#  Charts :
 ### Added
 - Charts
 
 
-*** Chronometer *** :
+#  Chronometer :
 ### Added
 - Timers
 
 
-*** Comparison *** :
+#  Comparison :
 ### Added
 - Compare
 
 
-*** ConvertAll *** :
+#  ConvertAll :
 ### Added
 - Currency
 - Picture
 
 
-*** DateTimes *** :
+#  DateTimes :
 ### Added
 - MyDateTime
 - CheckAppDate
 - CheckDate
 
 
-*** DBOperations *** :
+#  DBOperations :
 ### Added
 - Connection
 - DBOperationQuery
@@ -185,7 +184,7 @@ using Gp20AppCode.QRCode.QRCodeEncoder;
 - SearchAllTable
 
 
-*** DesignForms *** :
+#  DesignForms :
 ### Added
 - ChangeColor
 - ChangeSize
@@ -196,17 +195,17 @@ using Gp20AppCode.QRCode.QRCodeEncoder;
 - SendDataGridView
 
 
-*** DownloadUpload *** :
+#  DownloadUpload :
 ### Added
 - DownloadUpload
 
 
-*** Email *** :
+#  Email :
 ### Added
 - Email
 
 
-*** Encrypt *** :
+#  Encrypt :
 ### Added
 - Encryptor
 - FileEncryption
@@ -216,22 +215,22 @@ using Gp20AppCode.QRCode.QRCodeEncoder;
 
 
 
-*** HashAlgorithms *** :
+#  HashAlgorithms :
 ### Added
 - Hash
 
 
-*** HWID *** :
+#  HWID :
 ### Added
 - HWID
 
 
-*** Internet *** :
+#  Internet :
 ### Added
 - CheckConnection
 
 
-*** KeyMaker *** :
+#  KeyMaker :
 ### Added
 - SerialNumber
 
