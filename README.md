@@ -25,8 +25,17 @@ Gp20AppCode DLL  Release Version And Revision History
 #Warning: you do not have the right to sell this file. If viewed, it will be dealt with legally and the offender will be prosecuted.
 -------------------------------------------------------
 
-```python
-import foobar
+```C#
+namespace MyFirstProgram 
+ {
+     class Program 
+     {
+         static void Main() 
+         { 
+              System.Console.WriteLine("Welcome to Visual C# Tutorials!");
+         }
+     } 
+ }
 ```
 
 
